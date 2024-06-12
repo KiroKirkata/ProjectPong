@@ -1,0 +1,15 @@
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\bin\Debug\net6.0\ProjectPong.exe
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\bin\Debug\net6.0\ProjectPong.deps.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\bin\Debug\net6.0\ProjectPong.runtimeconfig.json
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\bin\Debug\net6.0\ProjectPong.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\bin\Debug\net6.0\ProjectPong.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.csproj.AssemblyReference.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.AssemblyInfoInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.AssemblyInfo.cs
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.csproj.CoreCompileInputs.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\refint\ProjectPong.dll
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.pdb
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ProjectPong.genruntimeconfig.cache
+C:\Users\Kiril Lambovski\Desktop\GitHub\Pong\ProjectPong\ProjectPong\ProjectPong\obj\Debug\net6.0\ref\ProjectPong.dll
